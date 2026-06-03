@@ -98,19 +98,19 @@ export const projects = [
 
 export const journey = [
   {
-    date: "2024 – Present",
+    date: "2026 – Present",
     role: "AI/ML Engineer (Self-directed)",
     org: "100 Days AI/ML Challenge",
     desc: "Shipping one production-quality AI/ML project every day — covering clustering, NLP, deep learning, and full-stack AI apps. Documented publicly on LinkedIn & GitHub.",
   },
   {
-    date: "2024",
+    date: "2025",
     role: "ML Intern",
     org: "Brainary Spot Technology",
     desc: "Built and deployed machine learning models for real-world business problems. Gained hands-on experience with data pipelines and model serving.",
   },
   {
-    date: "2023 – Present",
+    date: "2024",
     role: "B.Tech — AI & Data Science",
     org: "Tamil Nadu, India",
     desc: "Specializing in Artificial Intelligence and Data Science. Coursework covers ML, computer networks, SQL/PL-SQL, Java, and algorithm design.",
